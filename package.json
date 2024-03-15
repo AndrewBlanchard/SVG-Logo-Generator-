@@ -1,0 +1,19 @@
+{
+    "type": "module",
+    "name": "oop-challenge",
+    "version": "1.0.0",
+    "description": "SVG Logo Maker",
+    "main": "index.js",
+    "directories": {
+      "lib": "lib"
+    },
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "inquirer": "^9.2.15"
+    }
+  }
