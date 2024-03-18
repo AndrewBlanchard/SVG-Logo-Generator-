@@ -5,15 +5,15 @@
     "description": "SVG Logo Maker",
     "main": "index.js",
     "directories": {
-      "lib": "lib"
+        "lib": "lib"
     },
     "scripts": {
-      "start": "node index.js"
+        "start": "node index.js"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "inquirer": "^9.2.15"
+        "inquirer": "^9.2.16"
     }
-  }
+}
